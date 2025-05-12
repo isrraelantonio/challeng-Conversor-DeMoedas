@@ -1,22 +1,22 @@
-💱 Conversor de Moedas em Java.<br>
-Este projeto é um aplicativo de conversão de moedas desenvolvido em Java, com foco em atualizações em tempo real por meio do consumo dinâmico da ExchangeRate-API.
+# 💱 Conversor de Moedas em Java
 
-🧩 Funcionalidades<br>
-Conversão de moedas com base nas taxas de câmbio mais recentes<br>
+Aplicação simples e prática para conversão de moedas, desenvolvida em **Java**, com atualizações em **tempo real** por meio da **ExchangeRate-API**. O projeto aplica os fundamentos da **Programação Orientada a Objetos (POO)**, promovendo um código limpo, modular e de fácil manutenção.
 
-Atualizações automáticas a cada requisição via API<br>
+---
 
-Interface simples e intuitiva via console<br>
+## 🧩 Funcionalidades
 
-Arquitetura baseada nos princípios da Programação Orientada a Objetos (POO)<br>
+- ✅ Conversão entre diversas moedas utilizando taxas atualizadas
+- 🔁 Atualizações em tempo real por meio de requisições à API
+- 🧠 Estrutura baseada nos princípios da POO
+- 💬 Interface via console simples e objetiva
 
-🛠️ Tecnologias e Ferramentas<br>
-Java (JDK 17+)<br>
+---
 
-Bibliotecas nativas (HTTP, JSON parsing, etc.)<br>
+## 🛠️ Tecnologias Utilizadas
 
-ExchangeRate-API para obtenção de dados em tempo real<br>
+- [Java](https://www.oracle.com/java/technologies/javase-downloads.html)
+- Bibliotecas nativas (HttpURLConnection, JSON parsing, etc.)
+- [ExchangeRate-API](https://www.exchangerate-api.com/) – consumo de API REST para dados atualizados de câmbio
 
-🎯 Objetivo<br>
-O projeto foi desenvolvido com foco no aprendizado prático de APIs externas, manipulação de dados em tempo real e aplicação dos fundamentos da POO em Java.
 
